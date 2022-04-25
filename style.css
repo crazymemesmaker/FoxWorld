@@ -22,3 +22,8 @@ font-family: "Times New Roman", Times, serif;
 max-width: 100%;
 position:fixed;
 }
+
+* {
+-webkit-text-size-adjust: none;
+text-size-adjust: none;
+}
