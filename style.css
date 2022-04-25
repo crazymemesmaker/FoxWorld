@@ -17,3 +17,7 @@ p {
 color: white;
 font-family: "Times New Roman", Times, serif;
 }
+
+#img {
+max-width: 100%;
+}
